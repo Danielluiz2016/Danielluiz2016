@@ -1,7 +1,8 @@
 - 👋 Olá, me chamo Daniel Luiz
 - 👀 Tenho interesse de ser um Análista e Desenvolvedor de Sistemas.
 - 🌱 Atualmente estou estudando JavaScript focado no Discord para criação de Bots ...
-- 📫 Meu contato: danielluiz691@gmail.com ...
+- 📫 Meu contato: danielluiz691@gmail.com 
+-  Discord: danielluiz
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Danielluiz2016&show_icons=true&theme=dark"
